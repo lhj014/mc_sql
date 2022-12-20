@@ -6,14 +6,14 @@
 이 저장소는 MakeCode에서 **확장**으로 추가될 수 있습니다.
 
 * [https://minecraft.makecode.com/](https://minecraft.makecode.com/) 열기
-* 새로운 프로젝트에서 클릭
+* **새로운 프로젝트**에서 클릭
 * 톱니바퀴 모양 메뉴에서 **확장**을 클릭합니다
 * https://makecode.com/_981JoFTV8Joo으로 검색하고 가져오기
 
 또는
 
 * [https://minecraft.makecode.com/?github=1](https://minecraft.makecode.com/?github=1) 열기
-* 새로운 프로젝트에서 클릭
+* **새로운 프로젝트**에서 클릭
 * 톱니바퀴 모양 메뉴에서 **확장**을 클릭합니다
 * https://github.com/lhj014/mc_sql으로 검색하고 가져오기
 
