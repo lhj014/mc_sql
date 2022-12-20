@@ -9,7 +9,9 @@
 * 새로운 프로젝트에서 클릭
 * 톱니바퀴 모양 메뉴에서 **확장**을 클릭합니다
 * https://makecode.com/_981JoFTV8Joo으로 검색하고 가져오기
-* 또는
+
+또는
+
 * [https://minecraft.makecode.com/?github=1](https://minecraft.makecode.com/?github=1) 열기
 * 새로운 프로젝트에서 클릭
 * 톱니바퀴 모양 메뉴에서 **확장**을 클릭합니다
@@ -23,7 +25,9 @@ MakeCode에서 이 저장소를 편집합니다.
 * [https://minecraft.makecode.com/](https://minecraft.makecode.com/) 열기
 * **가져오기**를 클릭한 다음 **가져오기 URL**를 클릭합니다
 * https://makecode.com/_981JoFTV8Joo으로 검색하고 가져오기
-* 또는
+
+또는
+
 * [https://minecraft.makecode.com/?github=1](https://minecraft.makecode.com/?github=1) 열기
 * **가져오기**를 클릭한 다음 **가져오기 URL**를 클릭합니다
 * **https://github.com/lhj014/mc_sql**를 붙여넣고 가져오기를 클릭하세요.
