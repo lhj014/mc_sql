@@ -215,10 +215,10 @@ player.onChat("inner join", function () {
     inner_join()
     player.say("done select * from " + ("" + query[query.length - 2] + " ") + "inner join")
 })
-player.onChat("value", function (input_item) {
+player.onChat("values", function (input_item) {
     if (query.length == 3) {
         if (query[query.length - 2] == "into") {
-            query.push("value")
+            query.push("values")
             query.push("" + input_item)
             item_c.push(input_item)
             if (query[2] == "1") {
@@ -226,7 +226,7 @@ player.onChat("value", function (input_item) {
             } else {
                 item_b.push(input_item)
             }
-            player.say("done insert into " + ("" + query[query.length - 3] + " ") + "value " + input_item)
+            player.say("done insert into " + ("" + query[query.length - 3] + " ") + "values " + input_item)
         } else {
             player.say("(error : query is not insert into.)")
         }
@@ -311,7 +311,7 @@ function semicolon () {
             }
             player.say("select를 사용하여 올바르게 구현되었는지 확인하세요.")
             clear_array()
-        } else if (query[query.length - 2] == "value") {
+        } else if (query[query.length - 2] == "values") {
             agent_drop_c()
             player.say("select를 사용하여 올바르게 구현되었는지 확인하세요.")
             clear_array()
